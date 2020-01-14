@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.20623.1 VSUPREVIEW
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML to Json", "XML to Json\XML to Json.csproj", "{73B7DF6A-8E81-4AF8-AE13-B72F1E79ABD7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLtoJsonApi", "XMLtoJsonApi\XMLtoJsonApi.csproj", "{435CADAD-E549-4AAE-AE9F-A0CC09712B8E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,12 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{73B7DF6A-8E81-4AF8-AE13-B72F1E79ABD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{73B7DF6A-8E81-4AF8-AE13-B72F1E79ABD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{73B7DF6A-8E81-4AF8-AE13-B72F1E79ABD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{73B7DF6A-8E81-4AF8-AE13-B72F1E79ABD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{435CADAD-E549-4AAE-AE9F-A0CC09712B8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{435CADAD-E549-4AAE-AE9F-A0CC09712B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{435CADAD-E549-4AAE-AE9F-A0CC09712B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{435CADAD-E549-4AAE-AE9F-A0CC09712B8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23F1D17E-0880-4594-92E8-2C4CA4C959B8}
 	EndGlobalSection
 EndGlobal
